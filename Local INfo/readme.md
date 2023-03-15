@@ -1,7 +1,7 @@
 
 # TravelGo 🧭
 
-![App Screenshot](https://drive.google.com/uc?export=download&id=1a5Z1uYg63vLnxUzwjb9tefv_M9HCyAY8)
+![App Screenshot][(https://drive.google.com/uc?export=download&id=1a5Z1uYg63vLnxUzwjb9tefv_M9HCyAY8)]
 
 Travel go is a tool which find tourist spot in cities ✈️
 
